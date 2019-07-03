@@ -1,5 +1,6 @@
 //*****************************************************************************
-//header file type.h for global variables
+// By: Pete Sripitak
+// header file type.h for global variables
 //*****************************************************************************
 
 #include <iostream>
