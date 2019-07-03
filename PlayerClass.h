@@ -1,5 +1,6 @@
 //*****************************************************************************
-//header file PlayerClass.h for class PlayerClass
+// By: Pete Sripitak
+// header file PlayerClass.h for class PlayerClass
 //*****************************************************************************
 
 #include "type.h"
